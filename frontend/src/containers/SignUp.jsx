@@ -43,9 +43,9 @@ const SignUp = () => {
               <div class="input">
                 <div class="Melodum">
                   
-                  <p class="bold">FRESHZEST</p>
+                  <p class="bold">Lemonade</p>
                 </div>
-                <p class="bold2">SIGN UP</p>
+                <p class="bold2">Sign up</p>
                 <input
                   type="email"
                   class="form-control"
@@ -74,7 +74,7 @@ const SignUp = () => {
               </div>
 
               <button class="button" onClick={signUpButton}>
-                SIGN UP
+                Sign Up
               </button>
               <p class="bottom">
                 Already a Member?{" "}

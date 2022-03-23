@@ -41,9 +41,9 @@ const Signin = () => {
               </span>
               <div class="input">
                 <div class="Melodum">
-                  <p class="bold">FRESHZEST</p>
+                  <p class="bold">Lemonade</p>
                 </div>
-                <p class="bold2">SIGN IN</p>
+                <p class="bold2">Sign In</p>
                 <input
                   type="email"
                   onChange={inputEmail}
@@ -62,12 +62,12 @@ const Signin = () => {
               </div>
 
               <button class="button" onClick={signInButton}>
-                SIGN IN
+                Sign In
               </button>
               <p class="bottom">
                 Not a Member?{" "}
                 <a href="/signup">
-                  <u>Join Us.</u>
+                  <u>Sign Up</u>
                 </a>{" "}
               </p>
             </div>
