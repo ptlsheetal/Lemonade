@@ -31,4 +31,4 @@ class UserCheckLogin(CustomLoginRequiredMixin, generics.RetrieveAPIView):
 class UserList(CustomLoginRequiredMixin, generics.ListAPIView):
     # Get all users, limit = 20
     queryset = User.objects.all()[:20]
-    serializer_class = UserSerialize
+    serializer_class = UserSerializer
