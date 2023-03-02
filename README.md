@@ -6,9 +6,9 @@ Lemonade App, with a frontend built in React & Redux and a backend built in Djan
 
 ## Live Demo
 
-Check out [FRONTEND LIVE DEMO](https://frontend-srp.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://lemonade-1.sheetalpatel3.repl.co/) here!!
 
-Check out [API LIVE DEMO](https://backend-srp.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://lemonade.sheetalpatel3.repl.co/) here!!
 
 ## Tech used
 
